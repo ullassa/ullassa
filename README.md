@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ullas S A</h1>
 <h3 align="center">🚀 Full Stack Developer | Java | React | DSA | Open Source Contributor</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Ullas!;Full+Stack+Web+Dev+🚀;React+%7C+Java+%7C+DSA+Lover&center=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Ullas S A !;Full+Stack+Web+Dev+🚀;React+%7C+Java+%7C+DSA+Lover&center=true&width=500)](https://git.io/typing-svg)
 
 ---
 
@@ -55,7 +55,7 @@
 ---
 
 ## 🧑‍💻 Featured Project:
-- [🐄 Animal Herd Welfare Management](https://ullas200410.github.io/project-frontend) – A farmer-friendly web solution built with ❤️.
+- [🐄 Animal Herd Welfare Management System](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web solution built with ❤️.
 
 ---
 
