@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ullas S A</h1>
+<h3 align="center">🚀 Full Stack Developer | Java | React | DSA | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Ullas!;Full+Stack+Web+Dev+%F0%9F%9A%80;React+%7C+Java+%7C+DSA+Lover" alt="Typing SVG" />
-</p>
-
-<h3 align="center">🚀 A passionate Full Stack Developer from India</h3>
-
-- 🔭 I’m currently learning **Java, React, and DSA**
-- 📫 Reach me at: **ullas200410@gmail.com**
-- 🌍 Based in: Bengaluru, India
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Ullas!;Full+Stack+Web+Dev+🚀;React+%7C+Java+%7C+DSA+Lover&center=true&width=500)](https://git.io/typing-svg)
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/ullas-s-a-056229330" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_ullas__a" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Ullas_S_A/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+## 📫 Reach Me:
+- 📧 Email: **ullas200410@gmail.com**
+- 🌍 Location: Bengaluru, India  
+- 🔗 [LinkedIn](https://linkedin.com/in/ullas-s-a-056229330) | [Instagram](https://www.instagram.com/_ullas__a) | [LeetCode](https://leetcode.com/Ullas_S_A/)  
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🧑‍💻 What I’m Working On:
+- 🔭 Currently learning: **Java, React, and DSA**
+- 🚀 Exploring: Frontend development and Backend APIs
+- 💼 Goal: Get placed + build a faceless digital side hustle
+
+---
+
+## 🛠️ Tech Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -34,44 +34,39 @@
 
 ---
 
-### 🧠 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ullas_S_A?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
+## 🌟 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ullassa&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ullassa&theme=tokyonight&row=1&column=6" />
+## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" alt="Ullas's GitHub stats" />
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
-  <br />
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ullassa&theme=tokyo-night" />
-</p>
+## 📈 Activity Graph:
+![Ullas's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ullassa&theme=tokyo-night)
 
 ---
 
-### 🧑‍💻 Featured Project:
-- [🐄 Animal Herd Welfare Management](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web solution!
+## 🧑‍💻 Featured Project:
+- [🐄 Animal Herd Welfare Management](https://ullas200410.github.io/project-frontend) – A farmer-friendly web solution built with ❤️.
 
 ---
 
-### ✨ Quote to Keep You Going:
-> *"Dream big. Start small. But most of all, start."* 💡
+## 💻 LeetCode Progress:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ullas_S_A?theme=dark&font=baloo&ext=activity)](https://leetcode.com/Ullas_S_A)
 
 ---
 
-⭐️ If you like what I do, consider following me and let’s grow together!
+## ✨ Quote to Keep You Going:
+> *"Dream big. Start small. But most of all, start."*
+
+---
+
+⭐️ **Let's grow together! Follow me and let's connect.**
