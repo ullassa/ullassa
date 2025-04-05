@@ -43,29 +43,29 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ullas200410&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ullassa&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullas200410&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullas200410&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ullas200410&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ullassa&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 🧑‍💻 Featured Project:
-- [🐄 Animal Herd Welfare Management](https://ullas200410.github.io/project-frontend) – A farmer-friendly web solution!
+- [🐄 Animal Herd Welfare Management](https://ullassa.github.io/project-frontend) – A farmer-friendly web solution!
 
 ---
 
