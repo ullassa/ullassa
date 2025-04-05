@@ -65,7 +65,7 @@
 ---
 
 ### 🧑‍💻 Featured Project:
-- [🐄 Animal Herd Welfare Management](https://ullassa.github.io/project-frontend) – A farmer-friendly web solution!
+- [🐄 Animal Herd Welfare Management](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web solution!
 
 ---
 
