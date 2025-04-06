@@ -8,7 +8,11 @@
 ## 📫 Reach Me:
 - 📧 Email: **ullas200410@gmail.com**
 - 🌍 Location: Bengaluru, India  
-- 🔗 [LinkedIn](https://linkedin.com/in/ullas-s-a-056229330) | [Instagram](https://www.instagram.com/_ullas__a) | [LeetCode](https://leetcode.com/Ullas_S_A/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/ullas-s-a-056229330) | [Instagram](https://www.instagram.com/_ullas__a) | [LeetCode](https://leetcode.com/Ullas_S_A/)
+- <a href="https://x.com/_ullas_a" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-@Ullas_S_A-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
 
 ---
 
