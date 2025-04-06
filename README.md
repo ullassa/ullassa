@@ -60,7 +60,8 @@
 ---
 
 ## 📈 Activity Graph:
-![Ullas's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ullassa&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ullassa&theme=tokyo-night)
+
 
 ---
 
