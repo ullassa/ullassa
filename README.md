@@ -38,7 +38,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ullassa&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-👀 Profile Views:
+👀 Profile Views
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ullassa&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
