@@ -72,6 +72,10 @@
 ## 🧑‍💻 Featured Project:
 - [🐄 Animal Herd Welfare Management System](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web solution built with ❤️.
 
+### 🔗 Live Demo:
+👉 [Visit the Website](https://animal-herd-welfare-management.vercel.app/)
+
+
 ---
 
 ## 💻 LeetCode Progress:
