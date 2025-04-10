@@ -19,7 +19,7 @@
 ## 🧑‍💻 What I’m Working On:
 - 🔭 Currently learning: **Java, React, and DSA**
 - 🚀 Exploring: Frontend development and Backend APIs
-- 💼 Goal: Get placed + build a faceless digital side hustle
+- 💼 Goal: Get placed in copanies 
 
 ---
 
@@ -43,8 +43,6 @@
 
 ---
 👀 Profile Views
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ullassa&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
