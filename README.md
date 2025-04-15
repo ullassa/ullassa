@@ -48,7 +48,8 @@
 </p>
 ## 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="Ullas's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
+
 </p>
 
 ## 📊 GitHub Stats:
