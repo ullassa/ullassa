@@ -44,7 +44,7 @@
 ---
 👀 Profile Views
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="Ullas's GitHub streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" />
 
 </p>
 ## 🔥 Streak Stats:
