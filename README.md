@@ -46,18 +46,16 @@
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" />
 
-</p>
+
 ## 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" />
 </p>
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" alt="Ullas's GitHub stats" />
-</p>
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" />
 </p>
 
