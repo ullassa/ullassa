@@ -44,7 +44,8 @@
 ---
 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ullassa&label=Profile+Views&color=blue&style=plastic" alt="Profile Views" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="Ullas's GitHub streak" />
+
 </p>
 ## 🔥 Streak Stats:
 <p align="center">
