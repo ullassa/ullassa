@@ -42,9 +42,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ullassa&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-👀 Profile Views
+## 👀 GitHub Streak Stats
+
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
 ## 🔥 Streak Stats:
