@@ -8,10 +8,24 @@
 ## 📫 Reach Me:
 - 📧 Email: **ullas200410@gmail.com**
 - 🌍 Location: Bengaluru, India  
-- 🔗 [LinkedIn](https://linkedin.com/in/ullas-s-a-056229330) | [Instagram](https://www.instagram.com/_ullas__a) | [LeetCode](https://leetcode.com/Ullas_S_A/)
-- <a href="https://x.com/_ullas_a" target="blank">
+- ## 🌐 Connect with Me:
+
+<a href="https://linkedin.com/in/ullas-s-a-056229330" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-@Ullas_S_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_ullas__a" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-@_ullas__a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Ullas_S_A/" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-@Ullas_S_A-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://x.com/_ullas_a" target="blank">
   <img src="https://img.shields.io/badge/Twitter-@Ullas_S_A-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+
 
 
 ---
