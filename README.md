@@ -10,21 +10,24 @@
 - 🌍 Location: Bengaluru, India  
 - ## 🌐 Connect with Me:
 
+## 🌐 Connect with Me:
+
 <a href="https://linkedin.com/in/ullas-s-a-056229330" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-@Ullas_S_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-@Ullas_S_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=0A90D1" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/_ullas__a" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-@_ullas__a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@_ullas__a-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=E4405F&colorB=F56F73" alt="Instagram"/>
 </a>
 
 <a href="https://leetcode.com/Ullas_S_A/" target="blank">
-  <img src="https://img.shields.io/badge/LeetCode-@Ullas_S_A-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-@Ullas_S_A-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&colorA=FFA116&colorB=FFB94D" alt="LeetCode"/>
 </a>
 
 <a href="https://x.com/_ullas_a" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-@Ullas_S_A-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-@Ullas_S_A-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=1DA1F2&colorB=55ACEE" alt="Twitter"/>
 </a>
+
 
 
 
