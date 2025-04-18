@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-@Ullas_S_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=0A90D1" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/_ullas__a" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-@_ullas__a-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=E4405F&colorB=F56F73" alt="Instagram"/>
+<a href="https://https://www.instagram.com/_ullas_.a/" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-@_ullas_.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=E4405F&colorB=F56F73" alt="Instagram"/>
 </a>
 
 <a href="https://leetcode.com/Ullas_S_A/" target="blank">
