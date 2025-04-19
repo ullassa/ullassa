@@ -72,27 +72,27 @@
 
 
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" width="47%" />
 </p>
 
+## 📊 Top Languages
 
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
-## 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ullassa&theme=tokyo-night)
+## 📈 Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ullassa&theme=tokyo-night" width="95%" />
+</p>
 
----
 
 ## 🧑‍💻 Featured Project:
 - [🐄 Animal Herd Welfare Management System](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web solution built with ❤️.
