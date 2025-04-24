@@ -74,15 +74,14 @@
 
 ## 🔥 GitHub Streak & Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" width="35%" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" width="28%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" width="28%" />
 </p>
 
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" width="40%" />
+## 📊 Top Language
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" width="28%" />
 </p>
 
 ---
