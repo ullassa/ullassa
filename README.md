@@ -95,8 +95,13 @@
 
 ---
 
-## 💻 LeetCode Progress:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ullas_S_A?theme=dark&font=baloo&ext=activity)](https://leetcode.com/Ullas_S_A)
+<p align="center">
+  <a href="https://leetcode.com/Ullas_S_A" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Ullas_S_A?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" width="300px" />
+  </a>
+</p>
+
+
 
 ---
 
