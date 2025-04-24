@@ -73,17 +73,14 @@
 
 ## 🔥 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullassa&theme=tokyonight" alt="GitHub Streak" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" width="30%" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ullassa&theme=tokyo-night" width="90%" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-streak-stats.demolab.com?user=ullassa&theme=tokyonight" width="230px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ullassa&show_icons=true&theme=tokyonight" width="230px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullassa&layout=compact&theme=tokyonight" width="230px" /></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ullassa&theme=tokyo-night" width="230px" /></td>
+  </tr>
+</table>
 
 
 
