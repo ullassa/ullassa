@@ -41,7 +41,7 @@
 ## 🧑‍💻 What I’m Working On:
 - 🔭 Currently learning: **Java, React, and DSA**
 - 🚀 Exploring: Frontend development and Backend APIs
-- 💼 Goal: Get placed in copanies 
+- 💼 Goal: Get placed in companies 
 
 ---
 
