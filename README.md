@@ -69,6 +69,10 @@
 - 🌍 [Live Demo](https://myportfolio-8p4w.onrender.com/)  
 
 
+
+#dengue
+https://dengue-risk-prediction.onrender.com
+
 - 🔹 [🐄 Animal Herd Welfare Management](https://github.com/ullassa/Animal-Herd-Welfare-Management) – A farmer-friendly web app.
   - 🌐 [Live Demo](https://animal-herd-welfare-management.vercel.app/)
 
