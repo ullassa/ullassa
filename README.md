@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Java | React | DSA | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hey+there,+I'm+Ullas!;Full+Stack+Web+Dev+🚀;React+%7C+Java+%7C+DSA+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hey+there,+I'm+Ullas!;Full+Stack+Web+Dev+🚀;React+%7C+Java+%7C+DSA" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 🧑‍💻 What I’m Working On:
 - 🔭 Learning: **Java, React, and DSA**
 - 🚀 Exploring: Frontend and Backend
-- 🎯 Goal: Get placed in top companies
+- 🎯 Goal: 
 
 ---
 
